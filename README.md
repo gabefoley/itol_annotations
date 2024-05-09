@@ -2,7 +2,7 @@
 
 It works on passing a .csv file that looks something like this, i.e. their is a column that matches the labels you have in your nwk file followed by annotations.
 
-![Dataframe](https://raw.githubusercontent.com/gabefoley/itol_annotations/main/resources/imgs/df.png)
+![Dataframe](imgs/df.png)
 
 Then it just replaces values from this file into the templates defined in itol_text.py.
 
@@ -12,15 +12,15 @@ It generates these three styles of annotations -
 
 Colour ranges (from 'xref_orthodb' column)
 
-![Ranges](https://raw.githubusercontent.com/gabefoley/itol_annotations/main/resources/imgs/ranges.png)
+![Ranges](imgs/ranges.png)
 
 
 Colour strips (from lineage_superkingdom, lineage_phylum)
 
-![Colour Strips](https://raw.githubusercontent.com/gabefoley/itol_annotations/main/resources/imgs/colour_strips.png)
+![Colour Strips](imgs/colour_strips.png)
 
 
 Text on extants / ancestors (from value column)
-![Text](https://raw.githubusercontent.com/gabefoley/itol_annotations/main/resources/imgs/text.png)
+![Text](imgs/text.png)
 
 
