@@ -21,3 +21,11 @@ Colour strips (from lineage_superkingdom, lineage_phylum)
 Text on extants / ancestors (from value column)
 
 <img src="imgs/text.png" alt="Text" width="400">
+
+# Note for ranges
+
+Note that for ranges you need to toggle - 'Cover leaf labels' and 'Extend to fit labels' to view them correctly
+
+<img src="imgs/itol_options.png" alt="iTOL Options" width="400">
+
+
