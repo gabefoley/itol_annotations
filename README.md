@@ -26,6 +26,6 @@ Text on extants / ancestors (from value column)
 
 Note that for ranges you need to toggle - 'Cover leaf labels' and 'Extend to fit labels' to view them correctly
 
-<img src="imgs/itol_options.png" alt="iTOL Options" width="400">
+<img src="imgs/itol_options.png" alt="iTOL Options" width="200">
 
 
