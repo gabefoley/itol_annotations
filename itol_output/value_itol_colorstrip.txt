@@ -120,7 +120,7 @@ DATA
 #assign a green, semi-transparent (alpha 0.5) strip to an internal node, without any label. If 'Show internal values' is set to 'No', this will only be displayed if the node is collapsed. 
 #9606|5664 rgba(0,255,0,0.5)
 tr|A0A2R6AP45|A0A2R6AP45_9ARCH,#00ff00,0.23 
-tr|A0A7C5ICI9|A0A7C5ICI9_9ARCH,#ea01e1,0.24 
+tr|A0A7C5ICI9|A0A7C5ICI9_9ARCH,#ff00ff,0.24 
 tr|A0A6B2C402|A0A6B2C402_9ARCH,#FFFFFF,None 
 tr|A0A151BJ71|A0A151BJ71_9ARCH,#FFFFFF,None 
 tr|A0A511RIY9|A0A511RIY9_9DEIN,#FFFFFF,None 
@@ -130,9 +130,9 @@ tr|F5L972|F5L972_CALTT,#FFFFFF,None
 tr|A0A5T0UG45|A0A5T0UG45_CAMJU,#FFFFFF,None 
 N0,#FFFFFF,None 
 N1,#FFFFFF,None 
-N2,#eb8402,0.45 
+N2,#ff8000,0.45 
 N3,#FFFFFF,None 
 N4,#FFFFFF,None 
 N5,#FFFFFF,None 
 N6,#FFFFFF,None 
-N7,#75d492,0.36 
+N7,#80bf80,0.36 

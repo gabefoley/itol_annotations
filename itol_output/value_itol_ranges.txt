@@ -144,7 +144,7 @@ DATA
 #a range between leaves 9606 and 184922, filled with a gradient from white (#ffffff) to red (#ff0000), with a 2px dashed black (#000000) border and a blue (#0000ff) italic label
 #9606,184922,#ffffff,#ff0000,#000000,dashed,2,Example range,#0000ff,1,italic
     tr|A0A2R6AP45|A0A2R6AP45_9ARCH,tr|A0A2R6AP45|A0A2R6AP45_9ARCH,#00ff00,#00ff00,#00ff00,dashed,2,0.23,black,italic
-tr|A0A7C5ICI9|A0A7C5ICI9_9ARCH,tr|A0A7C5ICI9|A0A7C5ICI9_9ARCH,#ea01e1,#ea01e1,#ea01e1,dashed,2,0.24,black,italic
+tr|A0A7C5ICI9|A0A7C5ICI9_9ARCH,tr|A0A7C5ICI9|A0A7C5ICI9_9ARCH,#ff00ff,#ff00ff,#ff00ff,dashed,2,0.24,black,italic
 tr|A0A6B2C402|A0A6B2C402_9ARCH,tr|A0A6B2C402|A0A6B2C402_9ARCH,#FFFFFF,#FFFFFF,#FFFFFF,dashed,2,None,black,italic
 tr|A0A151BJ71|A0A151BJ71_9ARCH,tr|A0A151BJ71|A0A151BJ71_9ARCH,#FFFFFF,#FFFFFF,#FFFFFF,dashed,2,None,black,italic
 tr|A0A511RIY9|A0A511RIY9_9DEIN,tr|A0A511RIY9|A0A511RIY9_9DEIN,#FFFFFF,#FFFFFF,#FFFFFF,dashed,2,None,black,italic
@@ -154,9 +154,9 @@ tr|F5L972|F5L972_CALTT,tr|F5L972|F5L972_CALTT,#FFFFFF,#FFFFFF,#FFFFFF,dashed,2,N
 tr|A0A5T0UG45|A0A5T0UG45_CAMJU,tr|A0A5T0UG45|A0A5T0UG45_CAMJU,#FFFFFF,#FFFFFF,#FFFFFF,dashed,2,None,black,italic
 N0,N0,#FFFFFF,#FFFFFF,#FFFFFF,dashed,2,None,black,italic
 N1,N1,#FFFFFF,#FFFFFF,#FFFFFF,dashed,2,None,black,italic
-N2,N2,#eb8402,#eb8402,#eb8402,dashed,2,0.45,black,italic
+N2,N2,#ff8000,#ff8000,#ff8000,dashed,2,0.45,black,italic
 N3,N3,#FFFFFF,#FFFFFF,#FFFFFF,dashed,2,None,black,italic
 N4,N4,#FFFFFF,#FFFFFF,#FFFFFF,dashed,2,None,black,italic
 N5,N5,#FFFFFF,#FFFFFF,#FFFFFF,dashed,2,None,black,italic
 N6,N6,#FFFFFF,#FFFFFF,#FFFFFF,dashed,2,None,black,italic
-N7,N7,#75d492,#75d492,#75d492,dashed,2,0.36,black,italic
+N7,N7,#80bf80,#80bf80,#80bf80,dashed,2,0.36,black,italic
